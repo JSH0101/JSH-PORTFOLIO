@@ -136,6 +136,7 @@
 
 > AI 감시 시스템 구축 _(ROKEY BOOT CAMP F-4조 실무 프로젝트)_
 >
+> - 프로젝트 요약 : YOLOv8 모델로 목표를 학습. 후, CCTV가 목표를 감지했을 시 map 상의 목표 위치 추정 및 turtlebot3에 설치한 webcam으로 목표를 트래킹하여 목표 추적 시스템 구축
 > - 개발기간 : 2024.11.05-11.11
 > - 핵심 역할 : 팀원, YOLOv8 학습, 데이터베이스 연동 및 Flask 웹 서버 구축, 경비 로봇 목표 추적 알고리즘 개발
 > - Language : python3, JavaScript
