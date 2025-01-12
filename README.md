@@ -96,7 +96,7 @@
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots3)
 >
 > ### 채굴 로봇 설계
->> <img align="center" src="https://github.com/user-attachments/assets/4c79de2e-af77-4c6e-9055-e147cf05e670" width="500" height="300">
+>> <img align="center" src="https://github.com/user-attachments/assets/4c79de2e-af77-4c6e-9055-e147cf05e670" height="500">
 >>
 >> - 라이다와 카메라 장착하여 자율 주행 최소 조건 구현
 >> 
