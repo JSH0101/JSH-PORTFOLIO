@@ -70,7 +70,7 @@
 >
 > ### 구현 동영상
 >>
->><table>
+<table>
   <tbody>
     <tr>
       <td>
