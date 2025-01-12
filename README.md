@@ -135,39 +135,29 @@
 >>
 >> - 주방과 테이블 키오스크, 서빙로봇 GUI ROS2 실시간 통신 연결
 >>
->> - 주문 접수 후, 조리 완료 시 로봇 현
-> - 개발기간 : 2024.11.26-12.02
-> - 핵심 역할 : 팀원, 다중이용시설 로봇 주행 환경 설계 및 장애물 인식 모델 개발, 라이다와 카메라 센서 퓨전을 활용한 데이터 구축 기획, 미탐지 공간 확인 알고리즘 구현
-> - Language : python3, C++
-> - Skill : ROS2, Nav2, Visual SLAM, Lidar SLAM, Visual Odometry, Sensor Fusion, ORB 기반 객체 추적
-> - HARDWARE : Turtlebot4
-> 
-> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving2)
+>> - 주문 접수 후, 조리 완료 시 로봇 배달 기능(GAZEBO)
+>>
+>> - 로봇 배달 완료 후 로봇 GUI 통해 복귀 신호 후 수신, 복귀
+>>
 >
-> ### 구현 이미지
->> <img align="center" src="https://github.com/user-attachments/assets/042e043a-6eaa-4a14-a14a-274102230f0a" width="300">
->>
->> - RVIZ2로 갱신한 map파일의 빈 공간 픽셀을 찾아, 그 주변이 벽이 아닐 경우 목표로 이동하는 로직
->>
->> - 좁은 공간 탈출 위해, TURTLEBOT4의 YAML파일 변환
-> 
 > ### 코드 구성 다이어그램
 >> 
->> <img align="center" src="https://github.com/user-attachments/assets/128f7167-d237-4ace-8c44-4529a9cc37b1" width="400" height="230">
->>
-> ### 구현 동영상
+>> <img align="center" src="https://github.com/user-attachments/assets/0b9bab56-05ad-4985-9c7d-42c5ae42d724" width="400" height="230">
+>
+> # 구현 동영상
 <table>
   <tbody>
     <tr>
       <td>
-        <a href="https://youtu.be/ax0l52SnIvU" title="주행-2">
-          <img align="center" src="https://github.com/user-attachments/assets/042e043a-6eaa-4a14-a14a-274102230f0a" width="300">
+        <a href="https://youtu.be/ii_zUsjoUQ4" title="주행-1">
+          <img align="center" src="https://github.com/user-attachments/assets/9db8dc54-7235-46b1-814d-66112f89109c" width="300">
         </a>
       </td>
     </tr>
   </tbody>
 </table>
 <br />
+
 
 ## 5. 🚗 주행-2
 
