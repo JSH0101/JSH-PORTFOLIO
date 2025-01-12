@@ -137,12 +137,12 @@
 >> <img align="center" src="https://github.com/user-attachments/assets/0b9bab56-05ad-4985-9c7d-42c5ae42d724" width="400" height="230">
 >
 > # 구현 동영상
->>
 <table>
   <tbody>
     <tr>
       <td>
-        <a href="https://youtu.be/ax0l52SnIvU" title="주행-1">
+        <a href="https://youtu.be/ii_zUsjoUQ4" title="주행-1">
+          <img align="center" src="https://github.com/user-attachments/assets/042e043a-6eaa-4a14-a14a-274102230f0a" width="300">
         </a>
       </td>
     </tr>
@@ -168,8 +168,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://youtu.be/ajmxBVYohAc" title="주행-2">
-        <img align="center" src="https://github.com/user-attachments/assets/627d371c-e14b-4b86-b3a3-2da70756fd75" width="300">
+        <a href="https://youtu.be/ax0l52SnIvU" title="주행-2">
+          <img align="center" src="https://github.com/user-attachments/assets/042e043a-6eaa-4a14-a14a-274102230f0a" width="300">
         </a>
       </td>
     </tr>
@@ -199,7 +199,17 @@
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving3)
 >
 > ### 구현 동영상
->> <img align="center" src="" width="500" height="300">
+ <table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://youtu.be/ajmxBVYohAc" title="주행-3">
+        <img align="center" src="https://github.com/user-attachments/assets/627d371c-e14b-4b86-b3a3-2da70756fd75" width="300">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 >>
 >> - YOLO학습 통해 박스 확인
 >>
@@ -222,7 +232,7 @@
 > - 개발기간 : 2024.12.03-12.09
 > - 핵심 역할 : 팀원, 라벨링 가이드라인 작성 및 검수 자동화 코드 및 이미지 분류 저장 코드 설계
 > - Language : python3
-> - Skill : ROS2, flask, YOLOv6
+> - Skill : ROS2, gradio, YOLOv6
 > - HARDWARE : Raspberry Pi, Webcam, Conveyor Belt
 > 
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Intelligence1)
@@ -237,7 +247,8 @@
 >> - 또한 여러 불량품 데이터 학습시켜 True Negative 확률 상승
 >> 
 >> - 객체 세부 검출 알고리즘 구현으로 과검률 8.5% 하락, 정확도 25% 상승
-
+>>
+>> - 검출 화면과 저장한 db를 GRadio통해 업로드 및 갱신
 <br />
 
 ## 8. 👮🏼 지능-2
