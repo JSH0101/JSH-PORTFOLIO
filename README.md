@@ -124,7 +124,7 @@
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving1)
 >
 > ### 구현 이미지
->> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
+>> <img align="center" src="https://github.com/user-attachments/assets/e3b79cb0-437b-4e4f-ade9-09c8c52e991b" width="500" height="300">
 >>
 >> - 주방과 테이블 키오스크, 서빙로봇 GUI ROS2 실시간 통신 연결
 >>
@@ -143,7 +143,7 @@
     <tr>
       <td>
         <a href="https://youtu.be/ii_zUsjoUQ4" title="주행-1">
-          <img align="center" src="https://github.com/user-attachments/assets/042e043a-6eaa-4a14-a14a-274102230f0a" width="300">
+          <img align="center" src="https://github.com/user-attachments/assets/9db8dc54-7235-46b1-814d-66112f89109c" width="300">
         </a>
       </td>
     </tr>
@@ -183,7 +183,7 @@
 > 
 > ### 코드 구성 다이어그램
 >> 
->> <img align="center" src="https://github.com/user-attachments/files/18389060/_20241119.pdf" width="400" height="230">
+>> <img align="center" src="https://github.com/user-attachments/assets/15137287-fbe6-4159-8528-36a3cb7b0f3e" width="400" height="230">
 
 <br />
 
