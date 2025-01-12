@@ -95,20 +95,18 @@
 >
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots3)
 >
-> ### 구현 이미지
->> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
+> ### 채굴 로봇 설계
+>> <img align="center" src="https://github.com/user-attachments/assets/4c79de2e-af77-4c6e-9055-e147cf05e670" width="500" height="300">
 >>
->> - CCTV 및 TURTLEBOT3 카메라 실시간 업로드
->>
->> - 목표 추적 및 ID 기록
->>
->> - 현재 TURTLEBOT3 위치 및 상태 갱신
->>
->> - db 연동 후 목표 탐지 시간 기록 및 검색 기능
-> 
-> ### 코드 구성 다이어그램
+>> - 라이다와 카메라 장착하여 자율 주행 최소 조건 구현
 >> 
->> <img align="center" src="https://github.com/user-attachments/assets/586bd4a9-9601-45ef-b3c9-14ec9de379b6" width="400" height="230">
+>> - 라이다와 100mm 거리 이하면 장해물 감지하여 방향 전환하는 알고리즘 구현
+>> 
+>> - 로봇 위에 매니퓰레이터 구현하여 채굴 동작 구현
+> 
+> ### 구동 GUI
+>> 
+>> <img align="center" src="https://github.com/user-attachments/assets/87b72d5a-08aa-46b6-8efb-aa991e4e30ea" width="900" height="250">
 
 <br />
 
@@ -127,14 +125,16 @@
 > ### 구현 이미지
 >> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
 >>
->> - RVIZ2로 갱신한 map파일의 빈 공간 픽셀을 찾아, 그 주변이 벽이 아닐 경우 목표로 이동하는 로직
+>> - 주방과 테이블 키오스크, 서빙로봇 GUI ROS2 실시간 통신 연결
 >>
->> - 좁은 공간 탈출 위해, TURTLEBOT4의 YAML파일 변환
+>> - 주문 접수 후, 조리 완료 시 로봇 배달 기능(GAZEBO)
+>>
+>> - 로봇 배달 완료 후 로봇 GUI 통해 복귀 신호 후 수신, 복귀
 >>
 >
 > ### 코드 구성 다이어그램
 >> 
->> <img align="center" src="https://github.com/user-attachments/assets/586bd4a9-9601-45ef-b3c9-14ec9de379b6" width="400" height="230">
+>> <img align="center" src="https://github.com/user-attachments/assets/0b9bab56-05ad-4985-9c7d-42c5ae42d724" width="400" height="230">
 >
 > # 구현 동영상
 >>
@@ -143,7 +143,6 @@
     <tr>
       <td>
         <a href="https://youtu.be/ax0l52SnIvU" title="주행-1">
-          <img align="center" src="https://github.com/user-attachments/assets/042e043a-6eaa-4a14-a14a-274102230f0a" width="300">
         </a>
       </td>
     </tr>
@@ -164,20 +163,26 @@
 > 
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving2)
 >
-> ### 구현 이미지
->> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
+> ### 구현 동영상
+> <table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://youtu.be/ajmxBVYohAc" title="주행-2">
+        <img align="center" src="https://github.com/user-attachments/assets/627d371c-e14b-4b86-b3a3-2da70756fd75" width="300">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+>> 
+>> - RVIZ2로 갱신한 map파일의 빈 공간 픽셀을 찾아, 그 주변이 벽이 아닐 경우 목표로 이동하는 로직
 >>
->> - CCTV 및 TURTLEBOT3 카메라 실시간 업로드
->>
->> - 목표 추적 및 ID 기록
->>
->> - 현재 TURTLEBOT3 위치 및 상태 갱신
->>
->> - db 연동 후 목표 탐지 시간 기록 및 검색 기능
+>> - 좁은 공간 탈출 위해, TURTLEBOT4의 YAML파일 변환
 > 
 > ### 코드 구성 다이어그램
 >> 
->> <img align="center" src="https://github.com/user-attachments/assets/586bd4a9-9601-45ef-b3c9-14ec9de379b6" width="400" height="230">
+>> <img align="center" src="https://github.com/user-attachments/files/18389060/_20241119.pdf" width="400" height="230">
 
 <br />
 
@@ -193,20 +198,20 @@
 >
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving3)
 >
-> ### 구현 이미지
->> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
+> ### 구현 동영상
+>> <img align="center" src="" width="500" height="300">
 >>
->> - CCTV 및 TURTLEBOT3 카메라 실시간 업로드
+>> - YOLO학습 통해 박스 확인
 >>
->> - 목표 추적 및 ID 기록
+>> - aruco 마커를 통한 거리 계산
 >>
->> - 현재 TURTLEBOT3 위치 및 상태 갱신
+>> - 거리 계산으로 박스 위치 추정
 >>
->> - db 연동 후 목표 탐지 시간 기록 및 검색 기능
+>> - 박스 집고, 컨베이어와 ROS2통신으로 연동, 박스를 컨베이어 위에 놓으면 컨베이어어 동작
 > 
 > ### 코드 구성 다이어그램
 >> 
->> <img align="center" src="https://github.com/user-attachments/assets/586bd4a9-9601-45ef-b3c9-14ec9de379b6" width="400" height="230">
+>> <img align="center" src="https://github.com/user-attachments/assets/15137287-fbe6-4159-8528-36a3cb7b0f3e" width="400" height="230">
 
 <br />
 
@@ -221,21 +226,17 @@
 > - HARDWARE : Raspberry Pi, Webcam, Conveyor Belt
 > 
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Intelligence1)
->
-> ### 구현 이미지
->> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
->>
->> - CCTV 및 TURTLEBOT3 카메라 실시간 업로드
->>
->> - 목표 추적 및 ID 기록
->>
->> - 현재 TURTLEBOT3 위치 및 상태 갱신
->>
->> - db 연동 후 목표 탐지 시간 기록 및 검색 기능
 > 
 > ### 코드 구성 다이어그램
 >> 
->> <img align="center" src="https://github.com/user-attachments/assets/586bd4a9-9601-45ef-b3c9-14ec9de379b6" width="400" height="230">
+>> <img align="center" src="https://github.com/user-attachments/assets/700ede90-8b0e-463c-ac13-f50fe45ae23e" width="400" height="230">
+>> - 컨베이어 벨트에서 나오는 PCB 촬영 후, 각 객체의 세부 부품 확인 후, 양품인지 확인
+>>
+>> - 공정 조정을 통해 들어오는 부품 방향을 일정하게 고정하는 동시에 각각의 부품마다 최소 일치율 설정하여 정확도 상승
+>>
+>> - 또한 여러 불량품 데이터 학습시켜 True Negative 확률 상승
+>> 
+>> - 객체 세부 검출 알고리즘 구현으로 과검률 8.5% 하락, 정확도 25% 상승
 
 <br />
 
