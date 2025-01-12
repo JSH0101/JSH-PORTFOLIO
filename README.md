@@ -174,7 +174,7 @@
 > 
 > ### 코드 구성 다이어그램
 >> 
->> <img align="center" src="https://github.com/user-attachments/assets/15137287-fbe6-4159-8528-36a3cb7b0f3e" width="400" height="230">
+>> <img align="center" src="https://github.com/user-attachments/assets/128f7167-d237-4ace-8c44-4529a9cc37b1" width="400" height="230">
 >>
 > ### 구현 동영상
 <table>
