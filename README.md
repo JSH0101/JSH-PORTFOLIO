@@ -46,7 +46,7 @@
 >
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots1)
 >
-<img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="300">
+
 <br />
 
 ## 2. 🦿 협동-2
@@ -143,7 +143,8 @@
 > - HARDWARE : TURTLEBOT3-Burger, Webcam
 > 
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Intelligence2)
-
+<img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500">
+<a href="https://youtube.com/shorts/PZb9eTfeGG4?feature=share" title="지능-2">
 
 <br />
 
