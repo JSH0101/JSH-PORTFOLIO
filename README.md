@@ -37,7 +37,7 @@
 ## 1. 🦾 협동-1	
 
 > DART 플랫폼(두산로보틱스)을 활용한 협동로봇 동작 운영 _(ROKEY BOOT CAMP F-4조 실무 프로젝트)_
->
+> - 요약 : M0609 모델을 활용한 실제 / 시뮬레이션으로 팔레트 위의 물체 옮기기, 작업 공간 설정으로 기존 작업 대비 작업 속도 20% 증가
 > - 개발기간 : 2024.12.10-12.16
 > - 핵심 역할 : 팀원, Pattern Pallet 알고리즘 설계 및 안전 작업 로직 구현, Safety 중단 및 재개 작업 흐름 설계, 공간 제한 구역 및 안전 설정 구성
 > - Language : python3
@@ -45,7 +45,15 @@
 > - HARDWARE : DR-M0609
 >
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots1)
-
+>
+> <table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://youtube.com/shorts/PZb9eTfeGG4?feature=share" title="지능-2">
+          <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="300">
+        </a>
+      </td>
 <br />
 
 ## 2. 🦿 협동-2
