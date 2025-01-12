@@ -4,69 +4,72 @@
 
 > 장석환(Seokhwan Jang) - JSH0101 포트폴리오
 >>ROKEY BOOT CAMP : 2024.07.08 ~ 2025.01.04
->
+>>
 >> 졸업 과제 : 2024.03.02 ~ 06.28
->
+>>
 >> 대구대학생 로봇 경진대회 : 2023.
 <br />
 
 # 📝Projects
 > ROKEY BOOT CAMP에서 지금까지 진행해온 프로젝트들 입니다.
-> ROS2와 Python3, flask, gazebo를 중점적으로 진행하였습니다.
-> 
-> 협동-1	· DART 플랫폼(두산로보틱스)을 활용한 협동로봇 동작 운영 실습
-> 
-> 협동-2	· ROS-2 프로그램을 활용한 협동로봇 동작 운영 실습
-> 
-> 협동-3	· RVIZ2와 Gazebo를 활용한 다중 로봇 자율 협력 시스템 시뮬레이션
-> 
-> 주행-1	· 서비스(음식배달,정찰경찰 등) 로봇 및 관제 시스템 개발
-> 
-> 주행-2	· SLAM 모델 기반 다중이용시설 로봇 주행 환경 장애물 인식 모델 개발
-> 
-> 주행-3	· Fullfilment 가상 서비스 환경 실습
-> 
-> 지능-1	· Vision AI 기반 컨베이어 벨트 객체 인식 딥러닝 모델 최적화
-> 
-> 지능-2	· AI 비전 감시 간이 시스템 구축
-
-## 1. 🛫 MyLittleTrip
-
-> 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_
->
-> - 개발기간 : 2022.07.07-09.02
-> - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
->
->> Back-end
->> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostgreSQL
+> ROS2와 Python3, flask를 중점적으로 진행하였습니다.
+> 또한, slam과 nav2, gazebo 등을 활용하여 실제/가상 자율 주행 구현을 진행하였습니다.
 >> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
->
->> Front-end
->> - Language : javascript
->> - Skill : React.js
+>> 협동-1	· DART 플랫폼(두산로보틱스)을 활용한 협동로봇 동작 운영
+>> 
+>> 협동-2	· ROS-2 프로그램을 활용한 협동로봇 동작 운영
 >>
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+>> 협동-3	· RVIZ2와 Gazebo를 활용한 다중 로봇 자율 협력 시스템 시뮬레이션
+>> 
+>> 주행-1	· 서비스(음식배달,정찰경찰 등) 로봇 및 관제 시스템 개발
+>> 
+>> 주행-2	· SLAM 모델 기반 다중이용시설 로봇 주행 환경 장애물 인식 모델 개발
+>> 
+>> 주행-3	· Fullfilment 가상 서비스 환경 구축
+>> 
+>> 지능-1	· Vision AI 기반 컨베이어 벨트 객체 인식 딥러닝 모델 최적화
+>> 
+>> 지능-2	· AI 비전 감시 간이 시스템 구축
+
+> 졸업과제(2024.03.02~06.28) 간 진행한 프로젝트 입니다.
+> Arduino와 다중 센서 활용을 중점적으로 진행하였습니다.
+>> 자동차 야간 전조등 확인(스텔스차량) 안전 장치 개발
+>
+> 대구 대학생 로봇 경진대회 간 진행한 프로젝트입니다.
+> EV3 활용해 로봇의 요 각도, 동작 방식을 중점으로 진행하였습니다.
+>>  
+
+
+## 1. 🦾 협동-1	
+
+> DART 플랫폼(두산로보틱스)을 활용한 협동로봇 동작 운영 _(ROKEY BOOT CAMP F-4조 실무 프로젝트)_
+>
+> - 개발기간 : 2024.12.10-12.16
+> - 핵심 역할 : 팀원, Pattern Pallet 알고리즘 설계 및 안전 작업 로직 구현, Safety 중단 및 재개 작업 흐름 설계, 공간 제한 구역 및 안전 설정 구성
+> - Language : python3
+> - Skill : DART-Platform, rviz2(DART-Simulator), DART-Studio
+>
+> [프로젝트 상세 설명](https://github.com/Hyuna-319/ROKEY_Cobots1)
 
 <br />
 
-## 2. 👞 MyLittleShoes
+## 2. 🦾 협동-2
 
-> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
+> ROS-2 프로그램을 활용한 협동로봇 동작 운영 _(ROKEY BOOT CAMP F-4조 실무 프로젝트)_
 >
 > - 개발기간 : 2022.06.28-07.06
 > - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
 > - Language : python3
 > - Skill : Django, Django-rest-framework
 >
+> - BASE Library : [DR-tool 기초 라이브러리](https://github.com/doosan-robotics/doosan-robot2)
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
 <br />
 
-## 3. 🍻 MyLittleBeer
+## 3. 🦾 협동-3
 
-> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+> DART 플랫폼(두산로보틱스)을 활용한 협동로봇 동작 운영 _(ROKEY BOOT CAMP F-4조 실무 프로젝트)_
 >
 > - 개발기간 : 2022.06.02-13
 > - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
