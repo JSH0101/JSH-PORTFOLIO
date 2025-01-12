@@ -169,6 +169,44 @@
 </table>
 <br />
 
+## 5. 🚗 주행-2
+
+> 다중이용시설 로봇 주행 환경 장애물 인식 모델 개발 _(ROKEY BOOT CAMP F-4조 실무 프로젝트)_
+>
+> - 프로젝트 요약 : 센서 퓨전을 통하여 주변 탐지 후, 미탐지 공간 이동하는 오토 매핑 알고리즘 구현
+> - 개발기간 : 2024.11.26-12.02
+> - 핵심 역할 : 팀원, 다중이용시설 로봇 주행 환경 설계 및 장애물 인식 모델 개발, 라이다와 카메라 센서 퓨전을 활용한 데이터 구축 기획, 미탐지 공간 확인 알고리즘 구현
+> - Language : python3, C++
+> - Skill : ROS2, Nav2, Visual SLAM, Lidar SLAM, Visual Odometry, Sensor Fusion, ORB 기반 객체 추적
+> - HARDWARE : Turtlebot4
+> 
+> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving2)
+>
+> ### 구현 이미지
+>> <img align="center" src="https://github.com/user-attachments/assets/042e043a-6eaa-4a14-a14a-274102230f0a" width="300">
+>>
+>> - RVIZ2로 갱신한 map파일의 빈 공간 픽셀을 찾아, 그 주변이 벽이 아닐 경우 목표로 이동하는 로직
+>>
+>> - 좁은 공간 탈출 위해, TURTLEBOT4의 YAML파일 변환
+> 
+> ### 코드 구성 다이어그램
+>> 
+>> <img align="center" src="https://github.com/user-attachments/assets/128f7167-d237-4ace-8c44-4529a9cc37b1" width="400" height="230">
+>>
+> ### 구현 동영상
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://youtu.be/ax0l52SnIvU" title="주행-2">
+          <img align="center" src="https://github.com/user-attachments/assets/9e532a50-f90c-4642-9a56-25721ca657d7" width="300">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br />
+
 ## 6. 🦾 주행-3
 
 > Fullfilment 가상 서비스 환경 구축 _(ROKEY BOOT CAMP F-4조 실무 프로젝트)_
@@ -183,7 +221,7 @@
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving3)
 >
 > ### 구현 이미지
->>  <img align="center" src="https://github.com/user-attachments/assets/9d571d04-b8ac-4dd9-93bd-4f74d522ec4d" width="300">
+>>  <img align="center" src="https://github.com/user-attachments/assets/627d371c-e14b-4b86-b3a3-2da70756fd75" width="300">
 >>
 >> - YOLO학습 통해 박스 확인
 >>
