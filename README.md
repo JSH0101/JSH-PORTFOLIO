@@ -41,9 +41,10 @@
 > - 개발기간 : 2024.12.10-12.16
 > - 핵심 역할 : 팀원, Pattern Pallet 알고리즘 설계 및 안전 작업 로직 구현, Safety 중단 및 재개 작업 흐름 설계, 공간 제한 구역 및 안전 설정 구성
 > - Language : python3
-> - Skill : DART-Platform, rviz2(DART-Simulator DR-M0609), DART-Studio
+> - Skill : DART-Platform, rviz2(DART-Simulator), DART-Studio
+> - HARDWARE : DR-M0609
 >
-> [프로젝트 상세 설명](https://github.com/Hyuna-319/ROKEY_Cobots1)
+> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots1)
 
 <br />
 
@@ -55,10 +56,10 @@
 > - 핵심 역할 : 팀원, 팔레트 정렬 및 기어 삽입 로직 알고리즘 구현, 협동로봇 활용 실습과 프로젝트의 안전 작업 및 효율성 개선 기여
 > - Language : python3
 > - Skill : ROS2, DR_init, DART-Simulator(DR-M0609)
->
+> - HARDWARE : DR-M0609
 > - BASE Library : [DR-tool 기초 라이브러리](https://github.com/doosan-robotics/doosan-robot2)
 > 
-> [프로젝트 상세 설명](https://github.com/Hyuna-319/ROKEY_Cobots2)
+> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots2)
 
 <br />
 
@@ -71,7 +72,7 @@
 > - Language : python3, XML(URDF)
 > - Skill : ROS2, Nav2, RVIZ2, Gazebo, URDF, flask, Pyqt5
 >
-> [프로젝트 상세 설명](https://github.com/Hyuna-319/ROKEY_Cobots3)
+> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots3)
 
 <br />
 
@@ -83,8 +84,9 @@
 > - 핵심 역할 : 팀원, 주방 및 테이블 오더 시스템 설계, ROS2 통신 및 QoS 설정 구현, 서빙 로봇 알고리즘 설계 및 최적화
 > - Language : python3, SQLite3
 > - Skill : ROS2, Nav2, RVIZ2, Gazebo, Pyqt5
+> - HARDWARE : Turtlebot3_waffle(GAZEBO)
 >
-> [프로젝트 상세 설명](https://github.com/Hyuna-319/ROKEY_Driving1)
+> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving1)
 
 <br />
 
@@ -96,8 +98,8 @@
 > - 핵심 역할 : 팀원, 다중이용시설 로봇 주행 환경 설계 및 장애물 인식 모델 개발, 라이다와 카메라 센서 퓨전을 활용한 데이터 구축 기획, 미탐지 공간 확인 알고리즘 구현
 > - Language : python3, C++
 > - Skill : ROS2, Nav2, Visual SLAM, Lidar SLAM, Visual Odometry, Sensor Fusion, ORB 기반 객체 추적
->
-> [프로젝트 상세 설명](https://github.com/Hyuna-319/ROKEY_Driving2)
+> - HARDWARE : Turtlebot4
+> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving2)
 
 <br />
 
@@ -109,8 +111,9 @@
 > - 핵심 역할 : 팀원, Fulfillment 가상 서비스 환경 설계 및 OpenManipulator 연동 구현, YOLO 인식 결과를 활용한 로봇팔 동작 제어 및 이동 알고리즘 설계
 > - Language : python3
 > - Skill : ROS2, YOLO, OpenManipulator, Sensor Fusion, AuRco 마커 기반 위치 인식, Unity6 Digital Twin
-> 
-> [프로젝트 상세 설명](https://github.com/Hyuna-319/ROKEY_Driving3)
+> - HARDWARE : OpenManipulator-X, Turtlebot3-WafflePi, webcam, Conveyor belt
+>
+> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving3)
 
 <br />
 
@@ -122,8 +125,9 @@
 > - 핵심 역할 : 팀원, 라벨링 가이드라인 작성 및 검수 자동화 코드 및 이미지 분류 저장 코드 설계
 > - Language : python3
 > - Skill : ROS2, flask, YOLOv6
->
-> [프로젝트 상세 설명](https://github.com/Hyuna-319/ROKEY_Intelligence1)
+> - HARDWARE : Raspberry Pi, Webcam, Conveyor Belt
+> 
+> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Intelligence1)
 
 <br />
 
@@ -135,8 +139,10 @@
 > - 핵심 역할 : 팀원, YOLOv8 학습, 데이터베이스 연동 및 Flask 웹 서버 구축, 경비 로봇 목표 추적 알고리즘 개발
 > - Language : python3, JavaScript
 > - Skill : ROS2, Flask, SQLite3, Lidar SLAM, Visual SLAM, NAV2, HTML
->
-> [프로젝트 상세 설명](https://github.com/Hyuna-319/ROKEY_Intelligence2)
+> - HARDWARE : TURTLEBOT3-Burger, Webcam
+> 
+> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Intelligence2)
+
 
 <br />
 
