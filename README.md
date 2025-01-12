@@ -50,7 +50,6 @@
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots1)
 >
 > ### 구현 동영상
->> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
 >
 
 <br />
@@ -128,17 +127,28 @@
 > ### 구현 이미지
 >> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
 >>
->> - CCTV 및 TURTLEBOT3 카메라 실시간 업로드
+>> - RVIZ2로 갱신한 map파일의 빈 공간 픽셀을 찾아, 그 주변이 벽이 아닐 경우 목표로 이동하는 로직
 >>
->> - 목표 추적 및 ID 기록
+>> - 좁은 공간 탈출 위해, TURTLEBOT4의 YAML파일 변환
 >>
->> - 현재 TURTLEBOT3 위치 및 상태 갱신
->>
->> - db 연동 후 목표 탐지 시간 기록 및 검색 기능
-> 
+>
 > ### 코드 구성 다이어그램
 >> 
 >> <img align="center" src="https://github.com/user-attachments/assets/586bd4a9-9601-45ef-b3c9-14ec9de379b6" width="400" height="230">
+>
+> # 구현 동영상
+>>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://youtu.be/ax0l52SnIvU" title="주행-1">
+          <img align="center" src="https://github.com/user-attachments/assets/042e043a-6eaa-4a14-a14a-274102230f0a" width="300">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br />
 
