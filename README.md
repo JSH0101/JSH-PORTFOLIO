@@ -148,43 +148,13 @@
 
 <br />
 
-# 🎞 Youtube
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://youtu.be/BYKYpyyJfKU" title="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt-text="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-        </a>
-      </td>
-      <td>
-        <a href="https://youtu.be/HR1b2hrxvbY" title="사오이십조 - DRF 5일차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186109362-b40c300c-0906-4062-9bc3-8229e692af8e.png" width="300" alt-text="사오이십조 - DRF 5일차 스터디영상">
-        </a>
-      </td>
-      <td>
-        <a href="https://youtu.be/nXTzsSGfIbg" title="사오이십조 - 220624아침퀴즈 스터디영상">
-        <img align="center" src="https://user-images.githubusercontent.com/68724828/186110013-b5c77cf3-0bbc-481a-897b-d3a30bc74be6.png" width="300" alt-text="사오이십조 - 220624아침퀴즈 스터디영상">
-          </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-> <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
-
 
 <br />
 <br />
 
 # 📞 Contact
 
-- 이메일 : kimphysicsman@gmail.com
-- 블로그 : <a href="https://velog.io/@kimphysicsman">
-  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
-  </a>
-- 깃허브 : <a href="https://github.com/kimphysicsman">
+- 이메일 : sekhwan36@gmail.com
+- 깃허브 : <a href="https://github.com/JSH0101">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
-  </a>
-- 유튜브 :<a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg">
-  <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
   </a>
