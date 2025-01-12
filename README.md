@@ -69,8 +69,7 @@
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots2)
 >
 > ### 구현 동영상
->> <a href="https://youtube.com/shorts/L7rvD-ZukGI?feature=share" title="협동-2">
-  <img align="center" src="https://github.com/user-attachments/assets/b635ed71-4fb3-4051-9896-bf70a877af98" width="300">
+>><img align="center" src="https://github.com/user-attachments/assets/b635ed71-4fb3-4051-9896-bf70a877af98" width="300">
 
 <br />
 
