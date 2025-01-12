@@ -147,8 +147,8 @@
 >
 >> 구현 이미지 및 다이어그램
 >> 
->> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
->> <img align="center" src="https://github.com/user-attachments/assets/586bd4a9-9601-45ef-b3c9-14ec9de379b6" width="500" height="300">
+>> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="400" height="250">
+>> <img align="center" src="https://github.com/user-attachments/assets/586bd4a9-9601-45ef-b3c9-14ec9de379b6" width="400" height="250">
 
 
 <br />
