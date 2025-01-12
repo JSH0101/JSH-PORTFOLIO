@@ -165,7 +165,7 @@
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving2)
 >
 > ### 구현 동영상
-> <table>
+<table>
   <tbody>
     <tr>
       <td>
