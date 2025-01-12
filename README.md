@@ -169,7 +169,6 @@
     </tr>
   </tbody>
 </table>
-> <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
 <br />
 
 # 📞 Contact
