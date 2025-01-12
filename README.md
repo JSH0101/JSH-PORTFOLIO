@@ -166,6 +166,7 @@
 >
 > ### 구현 이미지
 >> <img align="center" src="https://github.com/user-attachments/assets/042e043a-6eaa-4a14-a14a-274102230f0a" width="300">
+>>
 >> - RVIZ2로 갱신한 map파일의 빈 공간 픽셀을 찾아, 그 주변이 벽이 아닐 경우 목표로 이동하는 로직
 >>
 >> - 좁은 공간 탈출 위해, TURTLEBOT4의 YAML파일 변환
@@ -200,19 +201,8 @@
 >
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving3)
 >
-> ### 구현 동영상
- <table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://youtu.be/ajmxBVYohAc" title="주행-3">
-        <img align="center" src="https://github.com/user-attachments/assets/627d371c-e14b-4b86-b3a3-2da70756fd75" width="300">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<br />
+> ### 구현 이미지
+>>  <img align="center" src="https://github.com/user-attachments/assets/627d371c-e14b-4b86-b3a3-2da70756fd75" width="300">
 >>
 >> - YOLO학습 통해 박스 확인
 >>
@@ -226,6 +216,19 @@
 >> 
 >> <img align="center" src="https://github.com/user-attachments/assets/15137287-fbe6-4159-8528-36a3cb7b0f3e" width="400" height="230">
 
+> ### 구현 동영상
+ <table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://youtu.be/ajmxBVYohAc" title="주행-3">
+        <img align="center" src="https://github.com/user-attachments/assets/627d371c-e14b-4b86-b3a3-2da70756fd75" width="300">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br />
 <br />
 
 ## 7. 📷 지능-1
