@@ -203,7 +203,7 @@
     <tr>
       <td>
         <a href="https://youtu.be/ajmxBVYohAc" title="주행-3">
-        <img align="center" src="https://github.com/user-attachments/assets/627d371c-e14b-4b86-b3a3-2da70756fd75" width="300">
+        <img align="center" src="https://github.com/user-attachments/assets/9d571d04-b8ac-4dd9-93bd-4f74d522ec4d" width="300">
         </a>
       </td>
     </tr>
