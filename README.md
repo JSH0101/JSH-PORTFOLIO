@@ -145,7 +145,7 @@
 > 
 > [프로젝트 코드 상세](https://github.com/Hyuna-319/ROKEY_Intelligence2)
 >
->> ### 구현 이미지
+> ### 구현 이미지
 >> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
 >>
 >> - CCTV 및 TURTLEBOT3 카메라 실시간 업로드
@@ -156,7 +156,7 @@
 >>
 >> - db 연동 후 목표 탐지 시간 기록 및 검색 기능
 > 
->> ### 코드 구성 다이어그램
+> ### 코드 구성 다이어그램
 >> 
 >> <img align="center" src="https://github.com/user-attachments/assets/586bd4a9-9601-45ef-b3c9-14ec9de379b6" width="400" height="230">
 
