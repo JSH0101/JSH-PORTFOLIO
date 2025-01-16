@@ -9,20 +9,13 @@
  
 언제나 밝은 **웃음**과 빛나는 **열정**으로 팀에 어울려 팀의 성공에 기여하는 팀원이 되겠습니다! 
 
-
-
-
-
-
-# 📙 Education
+> # 📙 Education
 >
 > - 두산 로보틱스 ROKEY BOOT CAMP 1기 로봇 엔지니어 양성 과정 수료 2024.07.08 ~ 2025.01.04
 >
 > - 로봇 혁신 센터 협동 로봇 생산 자동화 공정 프로그래밍 교육 이수 2023.07.24 ~ 2023.07.28
 >
 > - PLC 자동화 제어 설계 교육 이수 2024.07.15 ~ 2024.07.19 [시연 동영상](https://youtube.com/shorts/dNplFTMI8K0?feature=share)
-   
-<br />
 
 
 
@@ -63,7 +56,7 @@
 > - Skill : DART-Platform, rviz2(DART-Simulator), DART-Studio
 > - HARDWARE : DR-M0609
 >
-> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots1)
+> [프로젝트 코드](https://github.com/JSH0101/cobot1)
 >
 
 <br />
@@ -80,7 +73,7 @@
 > - HARDWARE : DR-M0609
 > - BASE Library : [DR-tool 기초 라이브러리](https://github.com/doosan-robotics/doosan-robot2)
 > 
-> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots2)
+> [프로젝트 코드](https://github.com/JSH0101/cobot2)
 >
 > ### 구현 동영상
 >>
@@ -101,7 +94,7 @@
 
 ## 3. 🤖 협동-3
 
-> DART 플랫폼(두산로보틱스)을 활용한 협동로봇 동작 운영 _(ROKEY BOOT CAMP F-4조 실무 프로젝트)_
+> RVIZ2와 Gazebo를 활용한 다중 로봇 자율 협력 시스템 시뮬레이션 _(ROKEY BOOT CAMP F-4조 실무 프로젝트)_
 >
 > - 프로젝트 요약 : 채굴로봇, 탐사로봇 설계하여 외계행성 채굴 및 탐사하는 시뮬레이션 구현
 > - 개발기간 : 2024.12.17-12.23
@@ -109,10 +102,10 @@
 > - Language : python3, XML(URDF)
 > - Skill : ROS2, Nav2, RVIZ2, Gazebo, URDF, flask, Pyqt5
 >
-> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Cobots3)
+> [프로젝트 코드](https://github.com/Hyuna-319/multi_robot_planet_exploration_sim)
 >
 > ### 채굴 로봇 설계
->> <img align="center" src="https://github.com/user-attachments/assets/4c79de2e-af77-4c6e-9055-e147cf05e670" height="500">
+>> <img align="center" src="https://github.com/user-attachments/assets/4c79de2e-af77-4c6e-9055-e147cf05e670" height="200">
 >>
 >> - 라이다와 카메라 장착하여 자율 주행 최소 조건 구현
 >> 
@@ -122,7 +115,7 @@
 > 
 > ### 구동 GUI
 >> 
->> <img align="center" src="https://github.com/user-attachments/assets/87b72d5a-08aa-46b6-8efb-aa991e4e30ea" width="900" height="250">
+>> <img align="center" src="https://github.com/user-attachments/assets/87b72d5a-08aa-46b6-8efb-aa991e4e30ea" width="720" height="200">
 
 <br />
 
@@ -137,7 +130,7 @@
 > - Skill : ROS2, Nav2, RVIZ2, Gazebo, Pyqt5
 > - HARDWARE : Turtlebot3_waffle(GAZEBO)
 >
-> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving1)
+> [프로젝트 코드](https://github.com/Hyuna-319/office_cafe_servingbot)
 >
 > ### 구현 이미지
 >> <img align="center" src="https://github.com/user-attachments/assets/e3b79cb0-437b-4e4f-ade9-09c8c52e991b" width="500" height="300">
@@ -149,9 +142,16 @@
 >> - 로봇 배달 완료 후 로봇 GUI 통해 복귀 신호 후 수신, 복귀
 >>
 >
+>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 > ### 코드 구성 다이어그램
 >> 
->> <img align="center" src="https://github.com/user-attachments/assets/0b9bab56-05ad-4985-9c7d-42c5ae42d724" width="400" height="230">
+>> <img align="center" src="https://github.com/user-attachments/assets/0b9bab56-05ad-4985-9c7d-42c5ae42d724" width="400" height="200">
 >
 > # 구현 동영상
 <table>
@@ -167,6 +167,13 @@
 </table>
 <br />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 
 ## 5. 🚗 주행-2
 
@@ -179,7 +186,7 @@
 > - Skill : ROS2, Nav2, Visual SLAM, Lidar SLAM, Visual Odometry, Sensor Fusion, ORB 기반 객체 추적
 > - HARDWARE : Turtlebot4
 > 
-> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving2)
+> [프로젝트 코드](https://github.com/Hyuna-319/auto_mapping_with_obstacle_avoidance)
 >
 > ### 구현 이미지
 >> <img align="center" src="https://github.com/user-attachments/assets/042e043a-6eaa-4a14-a14a-274102230f0a" width="300">
@@ -217,7 +224,7 @@
 > - Skill : ROS2, YOLO, OpenManipulator, Sensor Fusion, AuRco 마커 기반 위치 인식, Unity6 Digital Twin
 > - HARDWARE : OpenManipulator-X, Turtlebot3-WafflePi, webcam, Conveyor belt
 >
-> [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Driving3)
+> [프로젝트 코드](https://github.com/JSH0101/drive3)
 >
 > ### 구현 이미지
 >>  <img align="center" src="https://github.com/user-attachments/assets/627d371c-e14b-4b86-b3a3-2da70756fd75" width="300">
@@ -230,6 +237,13 @@
 >>
 >> - 박스 집고, 컨베이어와 ROS2통신으로 연동, 박스를 컨베이어 위에 놓으면 컨베이어어 동작
 > 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 > ### 코드 구성 다이어그램
 >> 
 >> <img align="center" src="https://github.com/user-attachments/assets/15137287-fbe6-4159-8528-36a3cb7b0f3e" width="400" height="230">
@@ -262,6 +276,10 @@
 > 
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Intelligence1)
 > 
+<br />
+<br />
+<br />
+<br />
 > ### 코드 구성 다이어그램
 >> 
 >> <img align="center" src="https://github.com/user-attachments/assets/700ede90-8b0e-463c-ac13-f50fe45ae23e" width="400" height="230">
@@ -290,8 +308,14 @@
 > - Skill : ROS2, Flask, SQLite3, Lidar SLAM, Visual SLAM, NAV2, HTML
 > - HARDWARE : TURTLEBOT3-Burger, Webcam
 > 
-> [프로젝트 코드 상세](https://github.com/Hyuna-319/ROKEY_Intelligence2)
+> [프로젝트 코드 상세](https://github.com/Hyuna-319/visionAMR_crime_tracker)
 >
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 > ### 구현 이미지
 >> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
 >>
@@ -308,6 +332,9 @@
 >> <img align="center" src="https://github.com/user-attachments/assets/586bd4a9-9601-45ef-b3c9-14ec9de379b6" width="400" height="230">
 
 
+<br />
+<br />
+<br />
 <br />
 
 
