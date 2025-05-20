@@ -231,13 +231,6 @@
 >>
 >> - 박스 집고, 컨베이어와 ROS2통신으로 연동, 박스를 컨베이어 위에 놓으면 컨베이어어 동작
 > 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 >  ### 코드 구성 다이어그램
 >> 
 >> <img align="center" src="https://github.com/user-attachments/assets/15137287-fbe6-4159-8528-36a3cb7b0f3e" width="400" height="230">
