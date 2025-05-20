@@ -284,6 +284,7 @@
 >> 
 >> <img align="center" src="https://github.com/user-attachments/assets/700ede90-8b0e-463c-ac13-f50fe45ae23e" width="400" height="230">
 >>
+>> 
 >> - 컨베이어 벨트에서 나오는 PCB 촬영 후, 각 객체의 세부 부품 확인 후, 양품인지 확인
 >>
 >> - 공정 조정을 통해 들어오는 부품 방향을 일정하게 고정하는 동시에 각각의 부품마다 최소 일치율 설정하여 정확도 상승
