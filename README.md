@@ -263,10 +263,6 @@
 > 
 > [프로젝트 코드](https://github.com/Hyuna-319/ROKEY_Intelligence1)
 > 
-<br />
-<br />
-<br />
-<br />
 > ### 코드 구성 다이어그램
 >> 
 >> <img align="center" src="https://github.com/user-attachments/assets/700ede90-8b0e-463c-ac13-f50fe45ae23e" width="400" height="230">
@@ -298,12 +294,6 @@
 > 
 > [프로젝트 코드 상세](https://github.com/Hyuna-319/visionAMR_crime_tracker)
 >
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 > ### 구현 이미지
 >> <img align="center" src="https://github.com/user-attachments/assets/fe5e5f87-3a82-4af1-8108-4f813860bfc1" width="500" height="300">
 >>
